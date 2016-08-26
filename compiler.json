@@ -1,6 +1,6 @@
 {
     "type": "compiler",
-    "short-name":"none-matlab",
+    "short-name":"matlab-concat",
     "name": "None",
     "supported-languages":[
         "matlab"
